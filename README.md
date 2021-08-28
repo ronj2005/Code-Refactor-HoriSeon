@@ -35,37 +35,37 @@ N/A
 
 Comment Notes Index: Changes made to HTML:
 
-Line07: <!--Changed website title to match header-->
+Line07: <!-Changed website title to match header-->
 
 Line12: <!—Changed div element to header for semantics-->
 
-Line16: <!--Changed div element to nav for semantics-->
+Line16: <!-Changed div element to nav for semantics-->
 
-Line32: <!--Changed div element to figure for semantics and to mark up a photo in a document-->
+Line32: <!-Changed div element to figure for semantics and to mark up a photo in a document-->
 
-Line35: <!--Changed div element to section for semantics-->
+Line35: <!-Changed div element to section for semantics-->
 
-Line38: <!--Changed div element to figcaption for semantics-->
+Line38: <!-Changed div element to figcaption for semantics-->
 
-Line46: <!--Changed div element to figcaption for semantics-->
+Line46: <!-Changed div element to figcaption for semantics-->
 
-Line54: <!--Changed div element to figcaption for semantics-->
+Line54: <!-Changed div element to figcaption for semantics-->
 
-Line64: <!--Changed div element to aside for semantics and created a class called benefits.-->
+Line64: <!-Changed div element to aside for semantics and created a class called benefits.-->
 
-Line66: <!--Changed div element to figure for semantics and to mark up a photo in a document-->
+Line66: <!-Changed div element to figure for semantics and to mark up a photo in a document-->
 
-Line68: <!--applied alt attribute for icon-->
+Line68: <!-applied alt attribute for icon-->
 
-Line73: <!--Changed div element to figure for semantics and to mark up a photo in a document-->
+Line73: <!-Changed div element to figure for semantics and to mark up a photo in a document-->
 
-Line75: <!--applied alt attribute for icon-->
+Line75: <!-applied alt attribute for icon-->
 
-Line80: <!--Changed div element to figure for semantics and to mark up a photo in a document-->
+Line80: <!-Changed div element to figure for semantics and to mark up a photo in a document-->
 
-Line82: <!--applied alt attribute for icon-->
+Line82: <!-applied alt attribute for icon-->
 
-Line88: <!--Changed div element to footer for semantics-->
+Line88: <!-Changed div element to footer for semantics-->
 
 Changes made to CSS:
 
