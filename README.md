@@ -2,11 +2,11 @@
 
 ## Description
 
-- The purpose of this refactor is to demonstrate how proper symantic labeling and code reduction can make for an improved work flow experience for other developers who view this code.
+- The purpose of this refactor is to demonstrate how proper semantic labeling and code reduction can make for an improved work flow experience for other developers who view this code.
 
-- This refactor create a more organized and accessabile work space for all devs who access this code.
+- This refactor creates a more organized and accessible work space for all devs who access this code.
 
-- Its vital for programers to use symantic elements when labeling their code to insure the that the code is readable and understood by other devs.
+- Its vital for programers to use semantic elements when labeling their code to ensure the that the code is readable and understood by other devs.
 
 ## Installation
 
